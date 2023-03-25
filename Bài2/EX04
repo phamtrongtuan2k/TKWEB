@@ -37,6 +37,7 @@ header #branding h1{
 }
 
 header nav{
+  margin-top:-70px;
   position:initial;
   transform: translateX(0);
   opacity:1;
